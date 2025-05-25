@@ -1971,7 +1971,7 @@
 
   <paragraph|exact-integer?>
 
-  <paragraph|exact>
+  <paragraph|exact> 7890
 
   <\scm-chunk|goldfish/scheme/base.scm|true|true>
     (define exact inexact-\<gtr\>exact)
